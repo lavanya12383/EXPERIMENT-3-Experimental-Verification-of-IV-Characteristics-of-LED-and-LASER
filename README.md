@@ -1,4 +1,5 @@
-
+# ARIGALA LAVANYA
+# 212222060019
 # Exp 3 Experimental Verification of IV Characteristics of LED and LASER
 # Fiber Optic LED Characteristics and Photo Detector Response
 
@@ -61,6 +62,9 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 *(Insert graph of Vf vs If here)*
 
 ---
+[EXP.pdf](https://github.com/user-attachments/files/23599146/EXP.pdf)
+
+[EXP 2F.pdf](https://github.com/user-attachments/files/23599147/EXP.2F.pdf)
 
 ## ✅ RESULT
 - The forward voltage and current characteristics of the fiber optic LED were successfully studied.
