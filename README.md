@@ -62,9 +62,12 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 <img width="1135" height="715" alt="image" src="https://github.com/user-attachments/assets/ee34ea62-0c00-461a-9486-92f22eb0efec" />
 
----
+---![WhatsApp Image 2025-11-28 at 10 15 22_2e41f353](https://github.com/user-attachments/assets/da8c46fa-5604-45ee-a405-ae5bd1e55ccc)
+
 
 ## 📊 TABULATION
+![WhatsApp Image 2025-11-28 at 10 15 22_2e41f353](https://github.com/user-attachments/assets/6b988595-18bf-48b9-967f-00fc52e600f0)
+
 
 ### LED Forward Characteristics
 
@@ -79,8 +82,11 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 ## 📈 MODEL GRAPH
 *(Insert graph of Vf vs If here)*
 
----
+---![WhatsApp Image 2025-11-28 at 10 15 22_0df758b6](https://github.com/user-attachments/assets/45fafa19-9c4c-4efa-9b41-4840ef0d3d19)
+
 
 ## ✅ RESULT
+![WhatsApp Image 2025-11-28 at 10 15 23_6c657089](https://github.com/user-attachments/assets/b0e7eeb9-a236-451a-a081-c54a45f881ca)
+
 - The forward voltage and current characteristics of the fiber optic LED were successfully studied.
 - The photo detector response was observed and analyzed.
