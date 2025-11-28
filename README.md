@@ -30,10 +30,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 1. Connect the power supply to the board.
 2. Ensure all switched faults are in the ‘Off’ position.
 3. Set emitter 1 block to **Digital Mode**.
-4. <img width="476" height="192" alt="517934085-523ed762-09f9-42e7-831b-3476afe4a961" src="https://github.com/user-attachments/assets/12a6d666-3ce7-44d2-a70a-a7d445f0e9fc" />
-<img width="459" height="189" alt="517934110-58d57898-d00e-4547-9cec-0129daf5c6f0" src="https://github.com/user-attachments/assets/d4812898-5881-404b-9fd3-52ed683472a6" />
-
-
+4.follow as below connections
 5. Make the following connections:
    - Connect the bias 1 preset on comparator 1 (TP13) to emitter 1 input (TP5).
    - Turn the bias 1 preset fully counterclockwise. In subdued lighting, slowly increase the setting until LED light is just visible.
@@ -47,12 +44,14 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 ---
 
 ## 🔌 CONNECTION DIAGRAM
+<img width="1141" height="984" alt="514707304-2e7a87f2-7a86-446b-a230-92075a21d7ca" src="https://github.com/user-attachments/assets/d7182339-d93e-434f-a1fe-e3e77f60d1c0" />
 
 
----<img width="1280" height="976" alt="514708144-dee9a68f-27eb-4a66-8b11-13b14c7e3b36" src="https://github.com/user-attachments/assets/99e8acb7-6068-44a3-92b1-2573c16ffdc6" />
 
 
 ## 📊 TABULATION
+![Uploading 514707351-542705a8-3ea2-4c97-8eb1-2d33a3d65911.png…]()
+
 
 ### LED Forward Characteristics
 
@@ -66,7 +65,8 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 ## 📈 MODEL GRAPH
 *(Insert graph of Vf vs If here)*
-![WhatsApp Image 2025-11-28 at 10 15 22_8c2f5f98](https://github.com/user-attachments/assets/8f17aed3-cb29-4249-894a-d366d27e8f63)
+<img width="941" height="1280" alt="514707404-662a68d0-d645-409f-b3be-a48cd604f2e8" src="https://github.com/user-attachments/assets/cdb03816-6e1b-45c9-91c7-27de1d642992" />
+
 
 ---
 [Uploading EXP.pdf…]()
@@ -74,7 +74,5 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 [Uploading EXP 2F.pdf…]()
 
 ## ✅ RESULT
-![WhatsApp Image 2025-11-28 at 10 15 23_0dd4b710](https://github.com/user-attachments/assets/66d521fe-b6ce-4529-b8ce-91a71a34056a)
-
 - The forward voltage and current characteristics of the fiber optic LED were successfully studied.
 - The photo detector response was observed and analyzed.
