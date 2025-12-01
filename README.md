@@ -29,34 +29,33 @@ Refer to the block diagram and make the following connections. Keep all switch f
 ---
 
 ## 🔌 CONNECTION DIAGRAM
-<img width="1141" height="984" alt="514707304-2e7a87f2-7a86-446b-a230-92075a21d7ca" src="https://github.com/user-attachments/assets/d7182339-d93e-434f-a1fe-e3e77f60d1c0" />
 
-
-
+<img width="1100" height="696" alt="514742974-60617f90-bfbb-4632-975d-3d249648d723" src="https://github.com/user-attachments/assets/e8a3a9b4-0548-4aee-a791-d3865996e76c" />
 
 ## 📊 TABULATION
 ![Uploading 514707351-542705a8-3ea2-4c97-8eb1-2d33a3d65911.png…]()
 
 
 ### LED Forward Characteristics
-
-| Forward Voltage Vf (V) | Forward Current If (mA) |
-|------------------------|-------------------------|
-|                        |                         |
-|                        |                         |
-|                        |                         |
+LED Forward Characteristics
+Forward Voltage Vf (V) 	Forward Current If (mA)
+1.5 	1.0
+1.6 	2.0
+1.7 	4.0
+1.8 	6.5
+1.9 	9.0
+2.0 	12.0
+2.1 	15.0
 
 ---
 
 ## 📈 MODEL GRAPH
 *(Insert graph of Vf vs If here)*
-<img width="941" height="1280" alt="514707404-662a68d0-d645-409f-b3be-a48cd604f2e8" src="https://github.com/user-attachments/assets/cdb03816-6e1b-45c9-91c7-27de1d642992" />
-
+<img width="960" height="425" alt="513056532-dd8326f5-a5d1-45ef-8bf6-db6da51560b8" src="https://github.com/user-attachments/assets/9a8d22bd-75c3-4c6d-a67e-493410063220" />
+## Graph
+<img width="960" height="1280" alt="517788827-57465d34-0e33-4952-8721-cdbb929e6d0f" src="https://github.com/user-attachments/assets/eb996c2f-b0a8-412e-a969-6492e2f7b48d" />
 
 ---
-[Uploading EXP.pdf…]()
-
-[Uploading EXP 2F.pdf…]()
 
 ## ✅ RESULT
 - The forward voltage and current characteristics of the fiber optic LED were successfully studied.
