@@ -33,7 +33,8 @@ Refer to the block diagram and make the following connections. Keep all switch f
 <img width="1100" height="696" alt="514742974-60617f90-bfbb-4632-975d-3d249648d723" src="https://github.com/user-attachments/assets/e8a3a9b4-0548-4aee-a791-d3865996e76c" />
 
 ## 📊 TABULATION
-![Uploading 514707351-542705a8-3ea2-4c97-8eb1-2d33a3d65911.png…]()
+![517865726-be09db3c-bc7c-4125-932c-9e8ba7f4af4f](https://github.com/user-attachments/assets/4b26edd2-eac7-491a-ae4f-d0022796499c)
+
 
 
 ### LED Forward Characteristics
